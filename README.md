@@ -1,7 +1,8 @@
-# auto_rig
+# Artell Auto-Rig
+More infos here:
+https://cgcookiemarkets.com/all-products/artell-auto-rig/
 
 If you like this addon, please support :-)
-https://cgcookiemarkets.com/all-products/artell-auto-rig/
 
 Doc:
 https://cgcookiemarkets.com/app/uploads/edd/2016/07/auto_rig_doc_0.3.pdf
