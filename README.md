@@ -1,6 +1,6 @@
 # Artell Auto-Rig
 More infos here:
-https://cgcookiemarkets.com/all-products/artell-auto-rig/
+https://cgcookiemarkets.com/all-products/artell-auto-rig/?ref=46
 
 If you like this addon, please support :-)
 
