@@ -1,4 +1,4 @@
-# Artell Auto-Rig
+# Auto-Rig Pro
 More infos here:
 https://cgcookiemarkets.com/all-products/artell-auto-rig/?ref=46
 
