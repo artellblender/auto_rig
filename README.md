@@ -1,4 +1,5 @@
 # Auto-Rig Pro
+Advanced automatic rig setup for Blender.
 More infos and documentation here:
 https://cgcookiemarkets.com/all-products/artell-auto-rig/?ref=46
 
