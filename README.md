@@ -6,12 +6,12 @@ Auto-Rig Pro is an advanced automatic rig setup for Blender, for biped and quadr
 It includes several tool to quickly position the bones on the character model, based on a body recognition solver.
 
 # Getting Auto-Rig Pro
-You may purchase it on the [Blender Market](https://cgcookiemarkets.com/all-products/artell-auto-rig/?ref=46)
+You may purchase it on the [Blender Market](https://blendermarket.com/products/auto-rig-pro)
 
 Purchasing a license entitles you to ensure the addon development and new features, and donate to the Blender Foundation funds.
 
 ## Getting Support
-You can get support for tools by reading the [documentation](https://cgcookiemarkets.com/all-products/artell-auto-rig/?view=docs) or posting on the [forums](https://cgcookiemarkets.com/all-products/artell-auto-rig/?view=support).
+You can get support for tools by reading the [documentation](https://blendermarket.com/products/auto-rig-pro) or posting on the [forums](https://blenderartists.org/forum/showthread.php?404092-Auto-rig-Pro-update-2-66).
 
 Support is granted to all customers whom have purchased a license.
 
