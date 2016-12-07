@@ -10,7 +10,7 @@ You may purchase it on the [Blender Market](https://blendermarket.com/products/a
 
 Purchasing a license entitles you to ensure the addon development and new features, and donate to the Blender Foundation funds.
 
-## Getting Support
+# Getting Support
 You can get support for tools by reading the [documentation](https://blendermarket.com/products/auto-rig-pro) or posting on the [forums](https://blenderartists.org/forum/showthread.php?404092-Auto-rig-Pro-update-2-66).
 
 Support is granted to all customers whom have purchased a license.
