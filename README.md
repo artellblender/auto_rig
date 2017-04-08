@@ -2,8 +2,8 @@ Auto-Rig Pro
 ==========
 
 Auto-Rig Pro is an advanced automatic rig setup for Blender, for biped and quadrupeds.
-
-It includes several tool to quickly position the bones on the character model, based on a body recognition solver.
+This Github version is free and limited. It only supports the basic rig features for a trial.
+The full version includes an automatic bone placement solver, the disable/multiple limbs features, game engine export (Unreal and Unity), a BVH remapper...
 
 # Getting Auto-Rig Pro
 You may purchase it on the [Blender Market](https://blendermarket.com/products/auto-rig-pro?ref=46) or [GumRoad](https://gumroad.com/l/auto-rig-pro)
