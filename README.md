@@ -4,6 +4,7 @@ Auto-Rig Pro
 Auto-Rig Pro is an advanced automatic rig setup for Blender.
 This Github version is free and limited. It only supports the basic rig features for a trial.
 The full version includes an automatic bone placement solver, the disable/multiple limbs features, game engine export (Unreal and Unity), motion capture retargetting...
+[Video Overview](https://youtu.be/dJTo-yllFm4)
 
 # Getting Auto-Rig Pro
 You may purchase it on the [Blender Market](https://blendermarket.com/products/auto-rig-pro?ref=46) or [GumRoad](https://gumroad.com/l/auto-rig-pro)
